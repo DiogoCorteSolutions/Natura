@@ -1,0 +1,14 @@
+D:\gitproject\Natura\Network\Network.Repositories\bin\Debug\Network.Repositories.dll.config
+D:\gitproject\Natura\Network\Network.Repositories\bin\Debug\Network.Repositories.dll
+D:\gitproject\Natura\Network\Network.Repositories\bin\Debug\Network.Repositories.pdb
+D:\gitproject\Natura\Network\Network.Repositories\bin\Debug\EntityFramework.dll
+D:\gitproject\Natura\Network\Network.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\gitproject\Natura\Network\Network.Repositories\bin\Debug\Network.Dommain.dll
+D:\gitproject\Natura\Network\Network.Repositories\bin\Debug\Network.Infra.dll
+D:\gitproject\Natura\Network\Network.Repositories\bin\Debug\Network.Dommain.pdb
+D:\gitproject\Natura\Network\Network.Repositories\bin\Debug\Network.Infra.pdb
+D:\gitproject\Natura\Network\Network.Repositories\bin\Debug\EntityFramework.xml
+D:\gitproject\Natura\Network\Network.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\gitproject\Natura\Network\Network.Repositories\obj\Debug\Network.Repositories.csprojResolveAssemblyReference.cache
+D:\gitproject\Natura\Network\Network.Repositories\obj\Debug\Network.Repositories.dll
+D:\gitproject\Natura\Network\Network.Repositories\obj\Debug\Network.Repositories.pdb

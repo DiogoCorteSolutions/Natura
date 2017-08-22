@@ -1,0 +1,15 @@
+D:\gitproject\Natura\Network\Network.CrossCounting\bin\Debug\Network.CrossCounting.dll.config
+D:\gitproject\Natura\Network\Network.CrossCounting\bin\Debug\Network.CrossCounting.dll
+D:\gitproject\Natura\Network\Network.CrossCounting\bin\Debug\Network.CrossCounting.pdb
+D:\gitproject\Natura\Network\Network.CrossCounting\bin\Debug\Correios.Net.dll
+D:\gitproject\Natura\Network\Network.CrossCounting\bin\Debug\EntityFramework.dll
+D:\gitproject\Natura\Network\Network.CrossCounting\bin\Debug\EntityFramework.SqlServer.dll
+D:\gitproject\Natura\Network\Network.CrossCounting\bin\Debug\EPPlus.dll
+D:\gitproject\Natura\Network\Network.CrossCounting\bin\Debug\Newtonsoft.Json.dll
+D:\gitproject\Natura\Network\Network.CrossCounting\bin\Debug\Correios.Net.pdb
+D:\gitproject\Natura\Network\Network.CrossCounting\bin\Debug\EntityFramework.xml
+D:\gitproject\Natura\Network\Network.CrossCounting\bin\Debug\EntityFramework.SqlServer.xml
+D:\gitproject\Natura\Network\Network.CrossCounting\bin\Debug\EPPlus.xml
+D:\gitproject\Natura\Network\Network.CrossCounting\bin\Debug\Newtonsoft.Json.xml
+D:\gitproject\Natura\Network\Network.CrossCounting\obj\Debug\Network.CrossCounting.dll
+D:\gitproject\Natura\Network\Network.CrossCounting\obj\Debug\Network.CrossCounting.pdb

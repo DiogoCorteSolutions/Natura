@@ -1,0 +1,9 @@
+D:\gitproject\Natura\Network\Network.Dommain\bin\Debug\Network.Dommain.dll.config
+D:\gitproject\Natura\Network\Network.Dommain\bin\Debug\Network.Dommain.dll
+D:\gitproject\Natura\Network\Network.Dommain\bin\Debug\Network.Dommain.pdb
+D:\gitproject\Natura\Network\Network.Dommain\bin\Debug\EntityFramework.dll
+D:\gitproject\Natura\Network\Network.Dommain\bin\Debug\EntityFramework.SqlServer.dll
+D:\gitproject\Natura\Network\Network.Dommain\bin\Debug\EntityFramework.xml
+D:\gitproject\Natura\Network\Network.Dommain\bin\Debug\EntityFramework.SqlServer.xml
+D:\gitproject\Natura\Network\Network.Dommain\obj\Debug\Network.Dommain.dll
+D:\gitproject\Natura\Network\Network.Dommain\obj\Debug\Network.Dommain.pdb

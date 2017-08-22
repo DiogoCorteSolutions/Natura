@@ -1,0 +1,12 @@
+D:\gitproject\Natura\Network\Network.Infra\bin\Debug\Network.Infra.dll.config
+D:\gitproject\Natura\Network\Network.Infra\bin\Debug\Network.Infra.dll
+D:\gitproject\Natura\Network\Network.Infra\bin\Debug\Network.Infra.pdb
+D:\gitproject\Natura\Network\Network.Infra\bin\Debug\EntityFramework.dll
+D:\gitproject\Natura\Network\Network.Infra\bin\Debug\EntityFramework.SqlServer.dll
+D:\gitproject\Natura\Network\Network.Infra\bin\Debug\Network.Dommain.dll
+D:\gitproject\Natura\Network\Network.Infra\bin\Debug\Network.Dommain.pdb
+D:\gitproject\Natura\Network\Network.Infra\bin\Debug\EntityFramework.xml
+D:\gitproject\Natura\Network\Network.Infra\bin\Debug\EntityFramework.SqlServer.xml
+D:\gitproject\Natura\Network\Network.Infra\obj\Debug\Network.Infra.csprojResolveAssemblyReference.cache
+D:\gitproject\Natura\Network\Network.Infra\obj\Debug\Network.Infra.dll
+D:\gitproject\Natura\Network\Network.Infra\obj\Debug\Network.Infra.pdb
